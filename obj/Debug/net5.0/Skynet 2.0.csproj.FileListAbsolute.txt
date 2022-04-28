@@ -1,0 +1,26 @@
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.exe
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.deps.json
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.runtimeconfig.json
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.runtimeconfig.dev.json
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\ref\Skynet 2.0.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Skynet 2.0.pdb
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.AssemblyInfo.cs
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\ref\Skynet 2.0.dll
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.pdb
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.genruntimeconfig.cache
+C:\Users\Иван\source\repos\Skynet 2.0\Skynet 2.0\obj\Debug\net5.0\Skynet 2.0.csproj.AssemblyReference.cache
