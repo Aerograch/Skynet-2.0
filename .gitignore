@@ -334,4 +334,4 @@ ASALocalRun/
 .localhistory/
 
 # SteamAPI Token
-SteamAPI/Token/*
+Token/*
