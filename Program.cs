@@ -8,6 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Skynet_2._0.Services;
 using Skynet_2._0.Modules;
+using Skynet_2._0.Token;
 
 namespace Skynet_2._0
 {
@@ -27,12 +28,12 @@ namespace Skynet_2._0
                 client.ReactionAdded += ReactionsModule.ReactionsHandlingAsync;
                 services.GetRequiredService<CommandService>().Log += LogAsync;
 
-                await client.LoginAsync(TokenType.Bot, "OTEyNzU3ODc2ODM2MTQzMTM0.YZ0mBA.DCvnZdViBOXv4LDk72_kmzstROM");
+                await client.LoginAsync(TokenType.Bot, Token.Token.Key);
                 await client.StartAsync();
 
                 await services.GetRequiredService<CommandHandlingService>().InitializeAsync();
 
-                
+                UpdateModule.NotifyLoopAsync();
 
                 await Task.Delay(Timeout.Infinite);
             }

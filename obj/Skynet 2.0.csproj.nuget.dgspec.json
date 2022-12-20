@@ -1,27 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj": {}
+    "C:\\Users\\Ivan\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj": {
+    "C:\\Users\\Ivan\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj",
         "projectName": "Skynet 2.0",
-        "projectPath": "C:\\Users\\Иван\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj",
-        "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\source\\repos\\Skynet 2.0\\Skynet 2.0\\obj\\",
+        "projectPath": "C:\\Users\\Ivan\\source\\repos\\Skynet 2.0\\Skynet 2.0\\Skynet 2.0.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivan\\source\\repos\\Skynet 2.0\\Skynet 2.0\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,16 +62,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
